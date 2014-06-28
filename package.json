@@ -1,0 +1,29 @@
+{
+  "name": "pillarNewspaper",
+  "version": "0.0.1",
+  "description": "Pillar Newspaper Kata",
+  "main": "main.js",
+  "scripts": {
+   "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbibbs/pillarNewspaper.git"
+  },
+  "author": "Christopher Bibbs <christopher.bibbs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbibbs/pillarNewspaper/issues"
+  },
+  "homepage": "https://github.com/cbibbs/pillarNewspaper",
+  "dependencies": {
+    "mocha": "0.3.x",
+    "superagent": "",
+    "expect.js": "",
+    "nedb": "",
+    "express": ""
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
