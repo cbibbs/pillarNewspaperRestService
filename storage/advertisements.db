@@ -1,7 +1,4 @@
-{"id":8,"advertisementName":"Target","advertisementDescription":"Back to School","_id":"3ZACvg7Fyz6bwP1A"}
-{"id":6,"advertisementName":"Home Depot","advertisementDescription":"First stab","_id":"4w86bu7OCerWMwY5"}
-{"id":25,"advertisementName":"Dress Barn","advertisementDescription":"Description","_id":"6FqvUNfyfciShVDr"}
-{"id":29,"advertisementName":"Lego Store","advertisementDescription":"Spend all the parents' money","_id":"PvnSLPdAYA1tyWFq"}
-{"id":7,"advertisementName":"Kohls","advertisementDescription":"Summer Sale","_id":"WL9Ib1CpGmyKzM4w"}
-{"id":26,"advertisementName":"Kmart","advertisementDescription":"Description","_id":"evWpLgpyIoFZT4Ze"}
-{"id":24,"advertisementName":"Name","advertisementDescription":"Description","_id":"yysO1e6273expDz3"}
+{"$$indexCreated":{"fieldName":"advertisementName","unique":true,"sparse":false}}
+{"id":5,"advertisementName":"Kohl's","advertisementDescription":"Summer sale","_id":"y5thSxfv6whLdypf"}
+{"id":6,"advertisementName":"Lego Store","advertisementDescription":"Spend all your money","_id":"5U9V93ASbXsErxPW"}
+{"id":7,"advertisementName":"Target","advertisementDescription":"Back to School","_id":"Hovp33dOqU2qW2A8"}

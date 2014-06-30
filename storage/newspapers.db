@@ -1,10 +1,4 @@
-{"id":19,"newspaperName":"Oakland County Examiner","_id":"7QybLZ8BYOxYCQUj"}
-{"id":28,"newspaperName":"Indy Star","_id":"9ZcCedXugl6tE35Z"}
-{"id":4,"newspaperName":"Detroit News","_id":"DPFG3ZmpcSZqXSor"}
-{"id":5,"newspaperName":"New York Times","_id":"DQbZHh56yAPvQOGn"}
-{"id":23,"newspaperName":"The Times of London","_id":"NaWDuq7hT8uJl3OZ"}
-{"id":3,"newspaperName":"Detroit Freepress","_id":"SnHkstTSWjq7TCxi"}
-{"id":27,"newspaperName":"The Oxnard Times","_id":"cMPJl91LUZ84rX1k"}
-{"id":22,"newspaperName":"The Sun","_id":"dzXOAeJX6Akekixj"}
-{"id":16,"newspaperName":"Dang Player","_id":"vFSVD2KQ9pKoJpdA"}
-{"id":21,"newspaperName":"Named ","_id":"yLtKBpgvx2WRL4VZ"}
+{"$$indexCreated":{"fieldName":"newspaperName","unique":true,"sparse":false}}
+{"id":2,"newspaperName":"Detroit News","_id":"YjP3th4pl0VEl06o"}
+{"id":3,"newspaperName":"Sun Times","_id":"sCJl6MpTQKUM5FrU"}
+{"id":4,"newspaperName":"USA Today","_id":"w1MqsIpvBbfKsYWP"}
